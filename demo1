@@ -2,3 +2,4 @@ cast=["abc","def","lmn"]
 print(cast)
 cast.append("xyz")
 print(cast)
+cast.insert(1,"opq")
